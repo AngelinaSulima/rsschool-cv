@@ -42,7 +42,7 @@ Not yet.....
 ***************************
 ## Languages:
 + Russian - native
-+ English - Advanced (according to EF SET)
++ English - Advanced (according to [EF SET](https://www.efset.org/ru/quick-check/take-test/#set15-190/result))
 
 
 
