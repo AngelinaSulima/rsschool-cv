@@ -1,4 +1,4 @@
-![Foto](IMG-2625.jpg)
+![Foto](IMG-2625.png)
 
 # **Angelina Sulima**
 -------------
